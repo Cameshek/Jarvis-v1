@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/32668361/README.md)
-# JARVIS v2
+# JARVIS v1
 
 Голосовой ассистент на Python с офлайн-распознаванием речи.
 
